@@ -1,0 +1,27 @@
+.recent-activity-container {
+    background: #fff; 
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .activity-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .activity-item {
+    border-bottom: 1px solid #eee; 
+    padding-bottom: 10px; 
+    margin-bottom: 10px; 
+  }
+  
+  .timestamp {
+    display: block;
+    color: #999; 
+    font-size: 0.8rem; 
+    margin-top: 4px; 
+  }
+  

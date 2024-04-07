@@ -1,0 +1,41 @@
+.my-stat-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px;
+    background-color: #f0c789; 
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 200px; 
+  }
+  
+  .stat {
+    margin-bottom: 10px;
+  }
+  
+  .stat-title {
+    font-size: 1rem;
+    color: #333;
+  }
+  
+  .stat-number {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #4a9ec4; 
+  }
+  
+  .stat-link {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .stat-link a {
+    color: #4a9ec4; 
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .stat-link a:hover {
+    text-decoration: underline;
+  }
+  

@@ -1,0 +1,29 @@
+.my-classes-container {
+    background: #fff; 
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin: 20px;
+  }
+  
+  .classes-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px; 
+  }
+  
+  .class-item {
+    padding: 10px;
+    border-radius: 4px;
+    background: #f0f0f0; 
+    flex-basis: calc(33.333% - 10px); 
+  }
+  
+  .class-name {
+    font-weight: bold;
+  }
+  
+  .class-description {
+    margin-top: 8px;
+    font-size: 0.9rem;
+  }

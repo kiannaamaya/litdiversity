@@ -1,0 +1,38 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+    background-color: #4bb9ec;
+    color: white;
+  }
+  
+  .navbar-logo {
+    font-size: 1.5rem;
+    color: white;
+    text-decoration: none; 
+  }
+  
+  .navbar-search input {
+    padding: 0.5rem;
+    margin-right: 1rem;
+  }
+  
+  .navbar-links a {
+    color: white;
+    text-decoration: none; 
+    margin-left: 1rem;
+  }
+  
+  .navbar-profile {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-profile-image {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px; 
+    margin-left: 1rem;
+  }
+  
