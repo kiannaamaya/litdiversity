@@ -71,7 +71,7 @@ const allBooks = [
         diversity: {
           blackAuthor: false,
           asianAuthor: true,
-          palestinianAuthor: true,
+          palestinianAuthor: false,
           disabledAuthor: true,
           womenAuthor: true,
           nativeAuthor: false,
